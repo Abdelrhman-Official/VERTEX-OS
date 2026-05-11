@@ -4,22 +4,33 @@
 
 # Vertex OS
 
-**A modern, lightweight Linux distribution built on Debian 12 Bookworm.**  
-Fast. Familiar. Runs on anything.
+### A modern, lightweight Linux distribution built on Debian 12 Bookworm
 
-[![Release](https://img.shields.io/github/v/release/YOUR_USERNAME/vertex-os?style=flat-square&color=6C63FF&label=Latest%20Release)](https://github.com/YOUR_USERNAME/vertex-os/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/YOUR_USERNAME/vertex-os/total?style=flat-square&color=6C63FF)](https://github.com/YOUR_USERNAME/vertex-os/releases)
-[![License](https://img.shields.io/github/license/YOUR_USERNAME/vertex-os?style=flat-square&color=6C63FF)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/YOUR_USERNAME/vertex-os?style=flat-square&color=6C63FF)](https://github.com/YOUR_USERNAME/vertex-os/issues)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/vertex-os?style=flat-square&color=6C63FF)](https://github.com/YOUR_USERNAME/vertex-os/stargazers)
-[![Status](https://img.shields.io/badge/status-Beta%201.0-orange?style=flat-square)](https://github.com/YOUR_USERNAME/vertex-os/releases)
+Fast • Minimal • Elegant • Built for everyone
 
-[**Download**](#-download) · [**Documentation**](docs/) · [**Report a Bug**](https://github.com/YOUR_USERNAME/vertex-os/issues/new?template=bug_report.yml) · [**Request a Feature**](https://github.com/YOUR_USERNAME/vertex-os/issues/new?template=feature_request.yml)
+<p>
+  <a href="https://github.com/Abdelrhman-Official/VERTEX-OS/releases/latest">
+    <img src="https://img.shields.io/github/v/release/Abdelrhman-Official/VERTEX-OS?style=for-the-badge&color=6C63FF&label=Latest%20Release" alt="Latest Release" />
+  </a>
+  <a href="https://github.com/Abdelrhman-Official/VERTEX-OS/releases">
+    <img src="https://img.shields.io/github/downloads/Abdelrhman-Official/VERTEX-OS/total?style=for-the-badge&color=6C63FF" alt="Downloads" />
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/github/license/Abdelrhman-Official/VERTEX-OS?style=for-the-badge&color=6C63FF" alt="License" />
+  </a>
+</p>
 
-</div>
+<p>
+  <a href="https://github.com/Abdelrhman-Official/VERTEX-OS/issues">
+    <img src="https://img.shields.io/github/issues/Abdelrhman-Official/VERTEX-OS?style=for-the-badge&color=FFB347" alt="Issues" />
+  </a>
+  <a href="https://github.com/Abdelrhman-Official/VERTEX-OS/stargazers">
+    <img src="https://img.shields.io/github/stars/Abdelrhman-Official/VERTEX-OS?style=for-the-badge&color=FFD700" alt="Stars" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Beta%201.0-orange?style=for-the-badge" alt="Status" />
+</p>
 
 ---
-
 ## Overview
 
 Vertex OS is a lightweight Linux distribution based on Debian 12 (Bookworm), designed to be modern, familiar, and fast on both old and new hardware. It ships with a polished Wayland desktop (Sway) with an X11 fallback (Openbox) for maximum hardware compatibility.
